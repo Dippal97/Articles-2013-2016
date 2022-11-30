@@ -1,0 +1,63 @@
+NEWS ANALYSIS
+The 5 biggest takeaways of Apple’s Q3 2015 quarterly earnings
+Apple posted record Q3 revenue driven by huge growth in China.
+By Jason Snell
+ Macworld JUL 21, 2015 10:23 AM PDT
+Another quarter, another happy financial report from Apple. The company’s third financial quarter is rarely the place where you expect to see records—in Apple’s largely seasonal business, the period from April to June is generally the sleepiest quarter—but there was still a lot to be gleaned from the numbers, and from the following hour-long call with financial analysts. Here are the most interesting things to come out of Tuesday’s Apple federally mandated disclosure of financial data.
+
+Trust us, Apple Watch is doing better than expected
+Apple carves its financial data into several different categories: iPhone, iPad, Mac, Services, and “Other Products.” This means that while we can get a good idea about the company’s three major product categories, the first quarter of sales for the Apple Watch are a mystery.
+
+Cook cops to it, too: “We made the decision back in September not to disclose the shipments on the watch, and that was not a matter of not being transparent, it was a matter of not giving our competition insight [on] a product that we worked hard on,” he told analysts today.
+
+apple watch clock chrono prApple
+Apple didn’t disclose how many Apple Watch units it sold, but said sales were strongest in June. (Which means that Slice data was wrong.) 
+
+But while Apple doesn’t want to reveal too much about how the Apple Watch is doing, Cook did say repeatedly that even with the company’s inability to produce enough watches to fulfill demand, Apple sold more of the devices than the company’s executives expected.
+
+“Sales of the watch did exceed our expectations, and they did so despite supply still trailing demand at the end of the quarter… In fact, the Apple Watch sell-through was higher than the comparable launch periods of the original iPhone or the original iPad,” he said. “And so as I look at all of these things, we feel really great about how we did.”
+
+This isn’t quite the same as one of Amazon’s famous Bezos Charts, where the company’s CEO famously likes to explain his success without any tangible numbers. But it’s close–Apple’s just saying that it beat its own internal projections, which for all we know, could’ve been unrealistically small.
+
+Still, knowing that everyone is hungry to hear about how the Apple Watch is doing, Cook tried to toss in a few more tidbits that provide information without giving away many details. Refuting reports that Apple Watch sales started off huge and then tanked, he said that June Apple Watch sales were higher than April and May. “I realize that’s very different from some of what’s being written,” he said pointedly, “but June sales were the highest.”
+
+Cook also said that the change in Apple’s Other Products accounting line from last quarter to this quarter shouldn’t be the source of estimates about the size of the Apple Watch market, because “the aggregate balance of that category is shrinking.” In other words, although Other is up $952 million from last quarter (and 49 percent versus the year-ago quarter), Apple Watch is doing much better than that. How much better? Your guess is as good as mine–Apple won’t say.
+
+Apple thinks watchOS 2 + holidays = success
+Several times during the analyst call, Cook pointed out that Apple’s still learning about Apple Watch and hoping to build a product family that’s successful in the long term. But Cook seemed particularly excited that Apple has “learned a lot about the [Apple Watch] buying experience” and as a result, plans to expand their sales channel before the holiday. “We’re convinced that the watch is going to be one of the top gifts of the holiday season.”
+
+Sure, that might be hype–but it also sounded to me like Apple was genuinely unsure how the Apple Watch would play with consumers, and now that it’s seen sales figures and customer-satisfaction numbers, it’s convinced that the Apple Watch could be a huge gift item during what is already Apple’s biggest quarter of the year.
+
+Apple remains bullish on China
+Over the past couple of years, Apple has made a point–not just in conversations with the financial industry, but also on stage at media events–of discussing its efforts in China. The massive effort the company is putting into China is certainly paying off: While the last two quarters have showed 75 percent year-over-year growth, Apple more than doubled its China revenue in this most recent quarter, compared to the same quarter a year ago. Apple isn’t just growing in China, its growth is accelerating.
+
+With the Chinese stock market and economy being called into question in recent days, it was interesting to hear Cook defend the market to financial analysts. He made it clear that Apple believes China will ultimately be Apple’s largest market. (It’s already surpassed Europe in total revenue.)
+
+6c q3 2015 002
+China is a bigger market for Apple than all of Europe, and Cook expects it to surpass the American market at some point. 
+
+“We’re not changing anything [in China]–we have the pedal to the metal” on growing Apple’s retail presence, he said, and pointed out that with LTE networking only available in 12 percent of China, there’s an “incredible smartphone future” in the country as broadband speeds improve and online video becomes more viable nationwide.
+
+As Cook has mentioned several times before, perhaps the biggest opportunity in China is the rapidly growing middle class. “I can’t overstate this–the rise of the middle class is continuing, and it is transforming China,” he said. “I saw a recent study from McKinsey that’s projecting the upper middle class to grow from 14 percent to 54 percent of households over the 10 year period from 2012 to 2022, [and] for all of us who travel there so much, with every trip you can see this occurring.”
+
+In other words, Apple’s long on China. “We would be foolish to change our plans,” Cook said, given that China has “an incredible, unprecedented level of opportunity.”
+
+The Mac keeps growing in a shrinking PC market
+Apple sold another 4.8 million Macs last quarter, which saw the introduction of the new retina MacBook. The Mac market isn’t growing spectacularly, but it is growing. As Cook put it, the Mac is showing 9 percent growth in a market that market-research firm IDC estimates contracted by 12 percent.
+
+el capitan mission control macbookApple
+Apple credits portables, like the new 12-inch MacBook, as driving strong Mac growth yet again. 
+
+This has been the quiet story of the Mac the last few years, hidden by all the hype of the iPhone and iPad. The Mac is the shining star of the PC market, growing unit sales and revenues in a market that’s shrinking. After a slow year in fiscal 2013, the Mac has bounced back in the last seven quarters. It’s never going to be the iPhone, but it appears to be a steady, profitable business that’s been remarkably resilient in an otherwise troubled product category.
+
+The iPad continues to struggle, but Cook still believes
+Apple sold nearly 11 million iPads during the quarter, generating $4.5 billion in revenue–not a bad business. But those numbers are down substantially from the same quarter a year ago, and that’s not a good sign. iPad sales are still tailing off, not stabilizing.
+
+But Tim Cook is still a believer. He even took a digression during a question about iPhone growth to give one of his regular pep talks about why he thinks the iPad still has a strong future. In addition to Apple’s iPad-focused enterprise partnership with IBM, this time Cook was able to cite the new iPad productivity features that will come with iOS.
+
+timcook ginnirometty
+Cook thinks the partnership with IBM will boost the iPad in the enterprise market. 
+
+But in the end, it’s all about finding a time when people who already own iPads will decide it’s time to buy a new model. “I believe that the iPad consumer upgrade cycle will eventually occur,” Cook said, “because as we look at the usage statistics on iPad, it remains unbelievably great. I mean, the next closest usage of the next competitor, we’re six times greater. And so these are extraordinary numbers. It’s not like people have forgotten iPad or anything, it’s a fantastic product.”
+
+So in the iPad’s list of assets: People who use it love it, and it’s far more used and loved than any of the other tablets on the market. The question is, is the ultimate size of the iPad market much smaller than any of us initially believed? Cook doesn’t think so, but all he’s got to go on are customer-satisfaction statistics and his gut feel. The numbers, on the other hand, aren’t yet showing any signs of turning around.
